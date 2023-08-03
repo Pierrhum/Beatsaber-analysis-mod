@@ -1,0 +1,6 @@
+# ninja log v5
+17	78	7105306605974399	CMakeFiles/beatsaber-analysis-mod.dir/extern/includes/beatsaber-hook/src/inline-hook/inlineHook.c.o	26c98fd428d94475
+10	85	7105306605964425	CMakeFiles/beatsaber-analysis-mod.dir/extern/includes/beatsaber-hook/src/inline-hook/relocate.c.o	77c149d818b2ac19
+6	501	7105306610210362	CMakeFiles/beatsaber-analysis-mod.dir/extern/includes/beatsaber-hook/src/inline-hook/And64InlineHook.cpp.o	876725728e98bf6f
+1	2947	7105306634550851	CMakeFiles/beatsaber-analysis-mod.dir/src/main.cpp.o	d3ff8de1038e4f1
+2952	5926	7105306647206600	libbeatsaber-analysis-mod.so	afa381ba92f3b444
